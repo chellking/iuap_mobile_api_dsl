@@ -3,7 +3,7 @@
 * [DSL API](README.md)
 * [参数说明](chapter1.md)
 * [全局方法](global_methods.md)
-* [$js] ()
+* [$js]
 * [$view]
 * [$service]
 * [$param]
